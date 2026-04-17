@@ -2,11 +2,12 @@
 
 Track new and removed job listings per company across 18+ European job portals.
 
-**[StepStone Company Hiring Tracker on Apify →](https://apify.com/blackfalcondata/stepstone-company-hiring-tracker)**
+**[StepStone Company Hiring Tracker - DE on Apify →](https://apify.com/blackfalcondata/stepstone-company-hiring-tracker)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -15,6 +16,7 @@ Track new and removed job listings per company across 18+ European job portals.
 ---
 
 ## Use cases
+
 
 
 
@@ -68,6 +70,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
